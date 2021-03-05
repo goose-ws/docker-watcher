@@ -22,7 +22,7 @@ services:
         image: 'goosews/watcher:latest'
 ```
 
-The first time you run it, it will drop a `watcher.ini` file in your `/data` directory. Edit that file to your needs, then re-start the container.
+The first time you run it, it will drop a `watcher.ini.example` file in your `/data` directory. Edit that file to your needs, then re-start the container.
 
 It runs as root, because this allows you to chown as needed. Bear in mind that your scripts/commands can chown based on a non-existant UID/GID. So if you're UID:GID is 1003:1003, even if those do not exist in the `/etc/passwd` or `/etc/group` inside the container, you can still have your scripts do `chown 1003:1003 $filename`.
 

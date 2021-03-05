@@ -121,8 +121,8 @@ uid=
 
 ; The command to run when 'command' return code is not equal to 0.
 ; Using is the same as 'action_on_success'.
-;action_on_failure=echo \$output | mutt -s \"watcher job \$job on \$host failed\" root" > /data/watcher.ini
-    echo "Please edit the default 'watcher.ini' file to your need, and restart the container."
+;action_on_failure=echo \$output | mutt -s \"watcher job \$job on \$host failed\" root" > /data/watcher.ini.example
+    echo "Please edit the default 'watcher.ini.example' file to your need, rename it to "watcher.ini", and restart the container."
     exit 0
 else
     echo "Starting watcher..."
