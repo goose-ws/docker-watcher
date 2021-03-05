@@ -1,6 +1,6 @@
 ## About
 
-A simple Alpine docker image of about 80 MB which can be used to run [paleg/Watcher](/paleg/Watcher).
+A simple Alpine docker image of about 80 MB which can be used to run [paleg/Watcher](https://github.com/paleg/Watcher).
 
 ## Getting Started
 
