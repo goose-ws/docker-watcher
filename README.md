@@ -1,6 +1,6 @@
-[![Pulls on DockerHub](https://img.shields.io/docker/pulls/goosews/watcher.svg?style=for-the-badge&label=pulls&logo=docker)](https://hub.docker.com/r/goosews/watcher)
-[![Stars on DockerHub](https://img.shields.io/docker/stars/goosews/watcher.svg?style=for-the-badge&label=pulls&logo=docker)](https://hub.docker.com/r/goosews/watcher)
-[![Stars on GitHub](https://img.shields.io/github/stars/goose-ws/watcher.svg?style=for-the-badge&label=Stars&logo=github)](https://github.com/goose-ws/watcher)
+[![Pulls on DockerHub](https://img.shields.io/docker/pulls/goosews/watcher.svg?style=for-the-badge&label=DockerHub%20pulls&logo=docker)](https://hub.docker.com/r/goosews/watcher)
+[![Stars on DockerHub](https://img.shields.io/docker/stars/goosews/watcher.svg?style=for-the-badge&label=DockerHub%20stars&logo=docker)](https://hub.docker.com/r/goosews/watcher)
+[![Stars on GitHub](https://img.shields.io/github/stars/goose-ws/watcher.svg?style=for-the-badge&label=GitHub%20Stars&logo=github)](https://github.com/goose-ws/watcher)
 
 ## About
 
