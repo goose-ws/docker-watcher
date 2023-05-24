@@ -1,0 +1,15 @@
+version: '3.3'
+services:
+  watcher:
+    container_name: watcher
+    image: goosews/watcher:latest
+    volumes:
+      - '/path/to/data:/data'
+      - '/dir1/to/watch:/watch/dir1'
+      - '/dir2/to/watch:/watch/dir2'
+    restart: unless-stopped
+    logging:
+      driver: json-file
+      options:
+        max-file: "3"
+        max-size: "10M"
