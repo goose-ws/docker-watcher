@@ -1,6 +1,12 @@
+[![Pulls on DockerHub](https://img.shields.io/docker/pulls/goosews/watcher.svg?style=for-the-badge&label=pulls&logo=docker)](https://hub.docker.com/r/goosews/watcher)
+[![Stars on DockerHub](https://img.shields.io/docker/stars/goosews/watcher.svg?style=for-the-badge&label=pulls&logo=docker)](https://hub.docker.com/r/goosews/watcher)
+[![Stars on GitHub](https://img.shields.io/github/stars/goose-ws/watcher.svg?style=for-the-badge&label=Stars&logo=github)](https://github.com/goose-ws/watcher)
+
 ## About
 
 A simple Alpine docker image of about 80 MB which can be used to run [paleg/Watcher](https://github.com/paleg/Watcher).
+
+If you run in to any trouble, please report issues on [GitHub](https://github.com/goose-ws/docker-watcher).
 
 ## Getting Started
 
