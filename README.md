@@ -6,7 +6,7 @@
 
 A simple Alpine docker image of about 80 MB which can be used to run [paleg/Watcher](https://github.com/paleg/Watcher).
 
-If you run in to any trouble, please report issues on [GitHub](https://github.com/goose-ws/docker-watcher).
+If you run in to any trouble, please create an issue on [GitHub](https://github.com/goose-ws/docker-watcher).
 
 ## Getting Started
 
